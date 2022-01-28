@@ -1,3 +1,8 @@
+# CRUD app built using NextJS.
+
+<b>Subscribe to My Youtube Channel:</b><br>
+https://www.youtube.com/NerdAutodidata
+
 ![Project Preview](preview.PNG)
 
 # Table of Content
@@ -67,7 +72,3 @@
 ```bash
   yarn start or npm start
 ```
-
-## 4. License
-
-MIT © [Flavio Aro](https://github.com/FlavioAro)
