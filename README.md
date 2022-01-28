@@ -70,4 +70,4 @@
 
 ## 4. License
 
-MIT © [Roldan Montilla Jr](https://github.com/roldanjr)
+MIT © [Flavio Aro](https://github.com/FlavioAro)
