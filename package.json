@@ -1,8 +1,8 @@
 {
-	"name": "nextjs-crud-mongodb",
+	"name": "react-nextjs-mongodb-crud",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "https://github.com/FlavioAro/nextjs-crud-mongodb.git",
+	"repository": "https://github.com/FlavioAro/react-nextjs-mongodb-crud.git",
 	"author": "Flavio Aro <nerd.autodidata@gmail.com>",
 	"license": "MIT",
 	"scripts": {
